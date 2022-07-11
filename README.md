@@ -6,3 +6,5 @@ Atividade: Light Mode/Dark Mode
  - Crie um arquivo chamado scripts.js na sua pasta assets/js
  - Selecione os elementos: h1, button, footer e body
  - Se os elementos possuirem a classe dark-mode, modifique seus estilos. Caso contrário, volte os estilos para o original
+
+Para solução deste desafio, copiei a estrutura (HTML/CSS) criada pelo instrutor da DIO e apliquei meus conhecimentos em Java Script.
